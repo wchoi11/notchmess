@@ -4,12 +4,13 @@
 		<title>{{ page.title }}</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/notchmess/css/main.css">
+<!--		<link rel="stylesheet" href="{{ "/css/main.css, " | prepend: site.baseurl }}">-->
 	</head>
 	<body>
 		<nav>
     		<ul>
-        		<li><a href="/notchmess">Home</a></li>
-			<li><a href="/notchmess/about">About</a></li>
+        		<li><a href={{site.baseurl}}>Home</a></li>
+			<li><a href="{{'/about' | prepend: site.baseurl}}">About</a></li>
     		</ul>
 		</nav>
 		<div class="container">
