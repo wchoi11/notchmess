@@ -1,1 +1,2 @@
-# notchmess.github.io
+# Not Chmess
+Making philosophy a little more accessible
