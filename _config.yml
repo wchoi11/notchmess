@@ -1,4 +1,4 @@
 name: Not Chmess
 markdown: kramdown
 
-baseurl: /notchmess/
+baseurl: "/notchmess"
