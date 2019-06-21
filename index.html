@@ -4,12 +4,18 @@ title: Not Chmess
 ---
 <div class="blurb">
 	<h1>Not Chmess</h1>
-	<p>Stuff</p>
 </div>
 
 <ul class="posts">
 
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url | prepend: site.baseurl}}" title="{{ post.title }}">{{ post.title }}</a></li>
+    <li>
+        <span>{{ post.date | date_to_string }}</span> »
+        <a href="{{ post.url | prepend: site.baseurl}}" title="{{ post.title }}">{{ post.title }}</a>
+        {{ post.excerpt }}
+        {% if post.excerpt != post.content %}
+            <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+        {% endif %}
+    </li>
   {% endfor %}
 </ul>
