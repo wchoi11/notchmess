@@ -11,8 +11,9 @@ title: Not Chmess
   {% for post in site.posts %}
     <li>
         <span>{{ post.date | date_to_string }}</span> »
+<!--        Guillemet »«-->
         <a href="{{ post.url | prepend: site.baseurl}}" title="{{ post.title }}">{{ post.title }}</a>
-        {{ post.excerpt }}
+        <p>{{ post.excerpt }}</p>
         {% if post.excerpt != post.content %}
             <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
         {% endif %}
