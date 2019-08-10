@@ -10,7 +10,7 @@ Pascal's Wager is an invalid argument (even if all the premises are true the con
 
 <!--cut-->
 ## Pascal's Wager
-
+{: id="anchor"}
 Pascal's Wager is an argument for why you should believe in God (not to be confused with an argument for God's existence!). Alan Hájek doesn't think it works in the end, but here is the Wager first.[^paper]
 
 No matter how committed of an atheist you might be, you should give some positive probability (just needs to be greater than 0) that God exists. You might give a one in a [Googol](https://simple.wikipedia.org/wiki/Googol) chance that God exists or a very high probability that God exists. Regardless of what you believe, you should believe there's some probability greater than 0 that God exists. If you think the probability is 0, how are you so sure?
