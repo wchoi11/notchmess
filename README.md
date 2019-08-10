@@ -2,7 +2,6 @@
 Making philosophy a little more accessible
 
 # TODO 
-* Upload pdf files of my summaries
 * Override max-width with none for header
 * Proper credit for header image
 
