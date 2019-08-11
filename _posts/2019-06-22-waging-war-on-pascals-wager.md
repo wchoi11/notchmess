@@ -6,7 +6,7 @@ excerpt_separator: <!--cut-->
 ---
 
 ## The Short Version
-Pascal's Wager is an invalid argument (even if all the premises are true the conclusion could still be false) because wagering for God is not the action with highest expected utility. Mixed strategies are also actions with highest expected utility because they still wager for God, though under some probabilistic event occurring.
+Pascal's Wager is an invalid argument (even if all the premises are true the conclusion could still be false) because wagering for God is not the action with highest expected utility. 
 
 <!--cut-->
 ## Pascal's Wager
@@ -19,7 +19,7 @@ No matter how committed of an atheist you might be, you should give some positiv
 
 With this premise in mind (there's a positive probability that God exists), here's all the possible outcomes for either wagering for God or wagering against God. I'll explain what the values mean in a second.
 
-Action ($\downarrow$)| God Exists | God Doesn't Exist
+Action | God Exists | God Doesn't Exist
 :---: | :---: | :---:
 Wager for God  | $\infty$ | $f_1$
 Wager against God  | $f_2$ | $f_3$
