@@ -6,7 +6,7 @@ excerpt_separator: <!--cut-->
 ---
 
 ## The Short Version
-Pascal's Wager is an invalid argument (even if all the premises are true the conclusion could still be false) because wagering for God is not the action with highest expected utility. 
+Pascal's Wager is an invalid argument because wagering for God is not the action with highest expected utility. 
 
 <!--cut-->
 ## Pascal's Wager
@@ -33,7 +33,7 @@ With this second premise (the table), we have one more premise to think about. T
 <details class="explanation">
 <summary>Click here for an explanation of expectation</summary>
 
-Expectation or expected value is a weighted sum. It answers the question of what do we expect to happen when there are more than one possible outcomes for some action we take. To calculate expectation, we take each outcome and weight it by its corresponding probability of occurring. To find the expected utility of wagering for God, we multiply the probability that God exists by $\infty$ and add the result of multiplying the probability that God doesn't exist by $f_1$. This sum is $\infty$ so the expected utility of wagering for God is $\infty$.
+Expectation or expected value is a weighted sum. It answers the question of what do we expect to happen when there is more than one possible outcome for some action we take. To calculate expectation, we take each outcome and weight it by its corresponding probability of occurring. To find the expected utility of wagering for God, we multiply the probability that God exists by $\infty$ and add the result of multiplying the probability that God doesn't exist by $f_1$. This sum is $\infty$ so the expected utility of wagering for God is $\infty$.
 
 </details>
 <br>
@@ -69,7 +69,7 @@ Our argument--though I agree looks absurd--is in fact valid. If premises 1 and 2
 
 By arguing for this claim, Hájek avoids spending any time on whether any of the premises are false. He is granting any defender of the Wager all the premises but still showing that the argument fails. He's essentially beating them at their own game.
 
-Here's how it goes. What Hájek shows is that there are other actions (he calls these mixed strategies) that also have infinite expected utility.[^unclear] Then, wagering for God will not be the only action that has infinite expected utility so it won't be true that we should wager for God because it has the highest expected utility. We could instead do this other action that has infinite expected utility so it also has the highest expected utility.
+Here's how it goes. What Hájek shows is that there are other actions (he calls these mixed strategies) that also have infinite expected utility.[^unclear] Then, wagering for God will not be the only action that has infinite expected utility so it won't be true that we should wager for God because it has the highest expected utility. We could instead do this other action that has infinite expected utility.
 
 [^unclear]: It's unclear to me why this is not just another attack on premise 2 with the table. Isn't Hájek arguing that the table doesn't contain all possible actions? Mixed strategies are not included so the argument ends up being invalid? Maybe it's a bit of both?
 
@@ -95,7 +95,7 @@ Here's one reformulation, which I think is hacky. Consider all the people who li
 This satisfies both of the conditions from before. The utility of salvation ($f_0$) overrides all other utilities because we picked it this way, and we can distinguish the expected utility of wagering for God from the expected utility of any mixed strategy. Pick any event with probability $q$ ($q>0$) for a mixed strategy. Then, its expectation is $q * (p * f_0 + (1-p) * f_1) + (1-q) * (p * f_3 + (1-p) * f_4)$, which is less than the expected utility of wagering for God.
 <!-- Explain why less than expectation for wagering? We have q parts of a and (1-q) parts of b, but one whole a is still larger than this sum because a > b. Mathemtically, (1-q) a > (1-q) b and q * a + (1-q) * a > q * a + (1-q) * b and a > q * a + (1-q) * b-->
 
-Hájek points out (and this goes for all the reformulations) that the problem with the reformulation is that the utility of salvation is not reflexive under addition. This is another way of saying that adding something makes it a different number. Remember, infinity is reflexive under addition because anything added to infinity is infinity. But if the utility of salvation is not reflexive under addition, salvation is now not the best thing possible because its utility could be even greater. This is more apparent with $f_0$ since it is finite.
+Hájek points out (and this goes for all the reformulations) that the problem with the reformulation is that the utility of salvation is not reflexive under addition. This is another way of saying that adding something makes the utility of salvation a different number. Remember, originally the utility of salvation was reflexive under addition because anything added to infinity is infinity. But if the utility of salvation is not reflexive under addition (because it's now finite), salvation is now not the best thing possible because its utility could be even greater. Because this reformulation is inconsistent with Pascal's view on salvation, it fails.
 
 But why can't we just make the utility of salvation reflexive under addition? Then, it also becomes reflexive under multiplication (adding the same number over and over is just multiplication!), opening the door again to the mixed strategies objection. Once the utility of salvation has both of these properties, we're back to where we started.
 <!-- This paragraph above might not be too clear -->
@@ -105,7 +105,7 @@ But why can't we just make the utility of salvation reflexive under addition? Th
         Why not just give up on salvation having infinite utility?
      </summary>
 
- Because someone might object that having finite utility over an infinite time still becomes infinite utility so either we shouldn't wager for God or we start to challenge some theological thoughts about heaven (one being that the afterlife is not eternal)
+ Because someone might object that having finite utility over an infinite time still becomes infinite utility so either we shouldn't wager for God or we start to challenge some theological thoughts about heaven (one being that the afterlife is eternal)
 
 </details>
 
