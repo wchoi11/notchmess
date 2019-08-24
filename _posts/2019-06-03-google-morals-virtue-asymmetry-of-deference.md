@@ -113,4 +113,6 @@ But moral deference can also make it harder to acquire moral virtue. This is whe
 
 [^joke]: I had to do it.
 
-So that's it! I think Howell's virtue account is very insightful, but there's definitely more out there in the literature about the problem with moral deference.
+So that's it! I think Howell's virtue account is very insightful, but there's definitely more out there in the literature about the problem with moral deference.[^thanks]
+
+[^thanks]: Many thanks to DS for taking the time to give feedback on this post.
