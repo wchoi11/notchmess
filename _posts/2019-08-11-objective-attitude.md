@@ -7,7 +7,7 @@ excerpt_separator: <!--cut-->
 
 ## The Short Version
 The objective attitude gets a bad rap, but a closer look reveals that though it
-may be impossible to fully adopt it, it's beneficial for navigating our
+may be impossible to fully adopt, it's beneficial for navigating our
 interpersonal relationships and more generally our lives.
 
 <!--cut-->
@@ -15,37 +15,39 @@ interpersonal relationships and more generally our lives.
 {: id="anchor"}
 Many philosophers, as Sommers describes, oppose the claim that we aren't
 morally responsible for our actions as if it "must be overcome at all costs"
-(p.322).[^paper] The objective attitude is just one consequence that philosophers might cite to show
-why we should reject this claim.
+(p.322).[^paper] Roughly, we might think determinism is true so we can't be morally
+responsible for our actions because all our actions are determined by the laws of
+nature and not ourselves.
 
 A term coined by P.F. Strawson, the objective attitude (toward human beings) is
 the view that human beings are mere things, "creatures who cannot
 deserve praise or blame" (p.323). In other words, adopting the objective attitude
-means you don't view other people as morally responsible for their actions or character.
-Now it might be clear why philosophers think the objective attitude is a consequence
-of believing we aren't morally responsible for our actions; if we **believe** people aren't morally responsible for their
+means you don't treat other people as morally responsible for their actions or character.
+Some philosophers think adopting the objective attitude is a consequence of believing we aren't
+morally responsible for our actions; if we **believe** people aren't morally responsible for their
 actions, we should **act** like people aren't morally responsible for their actions.
 
 [^paper]: "The Objective Attitude," *The Philosophical Quarterly* 57:228 (2007):pp.321-341
 
 Adopting the objective attitude basically comes down to how we should not
 praise or blame people for their actions. People aren't morally responsible for
-their actions because everything is determined so it doesn't make sense to praise
+their actions so it doesn't make sense to praise
 or blame them for their actions. They were going to do it anyways.
 
 For instance, we cannot blame a thief for stealing because the thief was determined,
-whether by environmental factors or some events, to steal
-so the thief couldn't have chosen not to steal.[^otherwise] The thief isn't morally responsible
+whether by environmental factors or some past events, to steal
+so the thief couldn't have chosen otherwise.[^otherwise] The thief isn't morally responsible
 for her actions (she didn't freely choose to steal) so we can't blame the thief.
 
 Likewise, we can't praise someone for saving a drowning child because she was determined to do so by a variety
-of factors. She's not morally responsible for her actions so we can't praise her.  
-People then are just like other determined events of the world such
-as a tree falling over or a hurricane moving over the Atlantic.
+of factors. She's not morally responsible for her actions so we can't praise her. The actions of people
+are then just like other determined events of the world such
+as a tree falling over or a hurricane moving over the Atlantic. We can't praise or
+blame any of them.
 
-[^otherwise]: We might think that the ability to choose otherwise decides whether we act freely, but some philosophers have contested this claim too.
+[^otherwise]: We might think that the ability to choose otherwise is what it means to act freely, but some philosophers have contested this claim too.
 
-## What's bad about the objective attitude?
+## What's so bad about the objective attitude?
 Philosophers (at least according to Sommers) give two reasons: (1) the implications
 of adopting the objective attitude are bleak and (2) it's "psychologically
 impossible" to fully adopt the objective attitude (p.322).
@@ -70,9 +72,15 @@ morally responsible much less believe I'm morally responsible for my actions.
 It is absurdly difficult (at least for me) to think that I do not choose to
 pick up my pencil or go for a run. Instead, these are all determined from the start.
 
-Additionally, if someone cuts in front of the line, I'm very tempted to blame them
+Sommers adds that what makes it difficult to adopt the objective attitude is that
+we are also predisposed to emotions that assume we or others
+are morally responsible for their actions. We feel angry at someone because
+we believe she freely chose to hurt us or we might feel grateful to someone because
+we think she freely chose to help us.
+
+<!-- Additionally, if someone cuts in front of the line, I'm very tempted to blame them
 for doing so. But under the objective attitude I shouldn't! It was determined from
-the start for that person to cut in front of the line.
+the start for that person to cut in front of the line. -->
 
 ## It's not as bad as you think
 To show that we should be more optimistic about adopting the objective attitude,
@@ -104,10 +112,10 @@ The next morning she hears a knock on the door and is greeted by a stranger who
 has driven all the way to her house to deliver her driver's license.
 
 If this were me, I would feel very grateful to the stranger, but you might think Sally cannot
-do the same. Under the objective attitude Sally cannot praise anyone for her actions
+do the same. Under the objective attitude, Sally cannot praise anyone for her actions
 so Sally cannot feel grateful to this kind stranger. Sommers thinks that though
 Sally cannot praise the stranger Sally can still appreciate the stranger for her
-actions and character. This is the type of gratitude Sally can feel and if Sally
+actions and character. This is the sort of gratitude Sally can feel and if Sally
 express this well the stranger might be encouraged to do more compassionate actions
 in the future.
 
@@ -115,14 +123,13 @@ This is a trend in Sommers' argument. Although we may not be able to praise or b
 someone under the objective attitude, we can act so that people are either encouraged
 or discouraged to act some way.[^sneaky] By doing so, we can be less consumed
 by our negative emotions and lead more compassionate lives. We don't need
-to treat other people as targets for social engineering. We can appreciate and
-cherish them for what good traits they have.[^but]
+to treat other people as targets of social engineering. In Sommers' own words:
+> Nothing in the objective attitude prevents us from recognizing, appreciating, *cherishing*
+> the rich and wonderful qualities of another person" (p.327).
 
-[^sneaky]: I'm actually being a little dishonest here because I make it seem like I can act freely but everyone else can't. Sommers thinks that we can encourage or discourage ourselves in the same way to act differently.
-
-[^but]: But what about the truly bad people? Here, I wasn't convinced by Sommers' argument but Sommers says we can simply choose not to associate with them.
+[^sneaky]: I'm actually being a little dishonest here because I make it seem like I can act freely but everyone else can't. Sommers thinks that we can encourage or discourage ourselves in the same way to act differently, but I think this still runs into the same problem. Aren't we determined to encourage or discourage ourselves too?
 
 Sommers argues that while we won't be able to adopt the objective attitude
 overnight we can commit to adopting it by adjusting our responses to the events
-around us just like Sally. Then, over time, we might find that we have fully
+around us to be like Sally. Then, over time, we might find that we have fully
 adopted the objective attitude.

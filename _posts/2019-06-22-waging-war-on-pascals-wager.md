@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Pascal was Wrong After All"
+title: "Why Pascal was wrong after all"
 date: 2019-06-22
 excerpt_separator: <!--cut-->
 ---
