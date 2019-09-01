@@ -27,7 +27,8 @@ body {
     max-width: 60em;
     font-size: 16px;
     font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
-    background-color: #fffff8
+    background-color: #fffff8;
+    color: #555;
 }
 
 .eq-caption {
@@ -131,8 +132,13 @@ p {
 
 .post-preview {
     border-left: 2px solid #00bfff;
+    /*border-left: 2px solid #964b00;*/
     background: #ececec;
     padding: 1em;
+}
+
+.read-time {
+    font-size: 0.9em;
 }
 
 strong {
