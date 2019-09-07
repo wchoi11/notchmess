@@ -132,8 +132,7 @@ p {
 
 .post-preview {
     /*Brown: 38220ED6*/
-    border-left: 2px solid #00bfff;
-    /*border-left: 2px solid #964b00;*/
+    border-left: 5px solid #a7a7a7;
     background: #ececec;
     padding: 1em;
 }
