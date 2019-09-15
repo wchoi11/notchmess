@@ -6,7 +6,7 @@ excerpt_separator: <!--cut-->
 ---
 
 ## The Short Version
-Knowing how is just a type of knowing that if you look at standard
+Knowledge-how is just a type of knowledge-that if you look at standard
 linguistic theories.
 
 <!--cut-->
@@ -14,7 +14,7 @@ linguistic theories.
 ## Why should you care about this?
 {: id="anchor"}
 
-Many of us (including me!) seem to buy into the distinction between knowledge-that
+Many of us (including me!) buy into the distinction between knowledge-that
 and knowledge-how. Knowledge-that is concerned with propositions, and knowledge-how
 is concerned with skills or abilities.
 
@@ -37,14 +37,11 @@ will be sufficient for my purposes, but note that it is an oversimplification.
 
 The most common topic I've seen this distinction used is on education. When we critique
 the current education system, we might say that schools focus too much on memorization
-(knowledge-that) instead of skills (knowledge-how) such as critical thinking.
-<label for="mn-demo" class="margin-toggle">&#8853;</label>
-<input type="checkbox" id="mn-demo" class="margin-toggle"/>
-<span class="marginnote">
-  This is a margin note. Notice there isn’t a number preceding the note.
-</span>
+(knowledge-that) instead of skills (knowledge-how) such as critical thinking.[^optimistic]
 What Jason Stanley & Timothy Williamson (S&W) argue is that this distinction doesn't
 exist so knowledge-how is really propositional knowledge and not a skill or ability.[^paper]
+
+[^optimistic]: I think we should be more optimistic about education if this distinction doesn't exist. If knowledge-how is propositional knowledge, it would be easier to teach skills like critical thinking without thinking that some students simply don't have the capacity to learn the skill.
 
 [^paper]: "Knowing How," *The Journal of Philosophy* 98:8 (2001):p.411-444.
 
@@ -56,12 +53,24 @@ knowledge-how. It's credited to Gilbert Ryle:
 <ol class="argument">
 
   <li>(Assumption) Knowledge-how is a type of knowledge-that.</li>
+  <label for="mn-demo" class="margin-toggle">&#8853;</label>
+  <input type="checkbox" class="margin-toggle"/>
+  <span class="marginnote">
+    $F$ is an action, but we'll soon see that this isn't
+    <strong>all</strong> actions.
+  </span>
   <li>If you $F$, then you use knowledge of how to $F$.</li>
   <li>If you use knowledge that $p$, then you contemplate the proposition $p$.</li>
   <li>(Conclusion) Knowledge-how is not a type of knowledge-that</li>
 
 </ol>
 
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Philosophers like to sound cool and different so they call these
+  proofs *reductios* for short.
+</span>
 Ryle's argument is actually a proof by contradiction or *reductio ad absurdum*.
 Ryle first assumes that there is no distinction and then derives a contradiction
 to show that the assumption that there is no distinction is false.
@@ -94,15 +103,27 @@ For example, here is an argument to show that there is no largest prime number:
 </details>
 
 So what is the contradiction? Let's walk through an example to see how
-Ryle derives one. If I ride a bike (substitute $F$ with "ride a bike"),
+Ryle derives one.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Substitute $F$ with "ride a bike."
+</span>
+If I ride a bike,
 I use knowledge of how to ride a bike by premise 2. Then, by the first premise,
 knowledge of how to ride a bike is knowledge that some proposition $p$. Then,
 applying premise 3, if I use knowledge that $p$, then I contemplate the
 proposition $p$.
 
 Here's the trick. Contemplating a proposition is an action just like
-riding a bike. Then, applying premise 2 again, if I contemplate a
-proposition $p$ (substitute $F$ with "contemplate a proposition $p$"),
+riding a bike.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Substitute $F$ with "contemplate a proposition $p$."
+</span>
+Then, applying premise 2 again, if I contemplate a
+proposition $p$,
 then I use knowledge of how to contemplate a proposition $p$.
 By premise 1, knowledge of how to contemplate a proposition $p$ is
 knowledge that some proposition $q$. Then, once again by premise 3,
@@ -111,8 +132,8 @@ if I use knowledge that $q$, then I contemplate the proposition $q$.
 We can keep on applying the same premises over and over again. This means
 that to ride a bike I have to contemplate an infinite number of
 propositions, but this would mean I would never be able to ride a bike!
-This is a contradiction because we do actions like riding a bike without
-thinking of an infinite number of propositions.
+This is a contradiction because we, in fact, do actions
+like riding a bike without thinking of an infinite number of propositions.
 
 What are $p$ and $q$? We're assuming that there is some way of converting
 knowledge-how to knowledge-that so we're using variables to stand in
@@ -120,6 +141,11 @@ for the result of that process. It's not necessary to know exactly what
 $p$ and $q$ are for the argument to work.
 
 ## Why Ryle's argument doesn't work
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Unsound in the sense that one of the premises is false.
+</span>
 I found Ryle's argument quite convincing, but S&W show that Ryle's
 argument is actually *unsound*.
 
@@ -152,7 +178,14 @@ Let's first consider premise 2: "If you $F$, then you use knowledge
 of how to $F$." S&W point out that there are counterexamples to this
 premise. For example, "If you digest food, then you use knowledge of
 how to digest food" is clearly false. Unintentional actions like
-digesting food make premise 2 false. Thus, premise 2 is only true
+digesting food make premise 2 false.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  So we can only substitute intentional actions for $F$
+  in premise 2.
+</span>
+Thus, premise 2 is only true
 for intentional actions.
 
 Now let's look at premise 3: "If you use knowledge that $p$, then
@@ -187,21 +220,33 @@ I think this is roughly what we think too. If I know how to ride a
 bike, I have the ability to ride a bike. If I know how to fly, I
 have the ability to fly.
 
-Here is a rather dark counterexample.[^who] Imagine a famous pianist has
-lost both her arms in a terrible accident. The pianist knows
+Here is a rather dark counterexample.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  S&W came up with this, not me!
+</span>
+Imagine a famous pianist has
+lost both her arms in a terrible accident.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  But what if the pianist got prosthetic arms? Wouldn't we say the pianist always had the ability to play piano? Maybe it's more accurate to call it a latent ability when she didn't have arms.
+</span>
+The pianist knows
 how to play the piano, but she does not have the ability to
-play the piano anymore.[^worry] Then, knowledge of how to $F$
+play the piano anymore.
+Then, knowledge of how to $F$
 is not the ability to $F$.
 
-[^who]: S&W came up with this, not me!
-
-[^worry]: But what if the pianist got prosthetic arms? Wouldn't we say the pianist always had the ability to play piano? It's just that she couldn't exercise her ability. Maybe it's more accurate to call it a latent ability when she didn't have arms.
-
 ### Stanley & Williamson's account
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  I'm not a linguist by training so please forgive me if I butcher anything.
+</span>
 S&W's account gets rather technical (linguistically) so I will
-limit myself to the key points.[^forgive]
-
-[^forgive]: I'm not a linguist by training so please forgive me if I butcher anything.
+limit myself to the key points.
 
 The example S&W work with is "Hannah knows how to ride a bike." Let's refer
 to this sentence as (1).
