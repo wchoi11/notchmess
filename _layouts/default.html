@@ -2,25 +2,25 @@
 <html>
 	<head>
         {% include header.html %}
-<!--		<link rel="stylesheet" href="tufte.css"/>-->
 	</head>
-	<body>
+	<p> {{ page.style }} </p>
+	<br>
+	<body class="{% if page.style %} {{ page.style }} {% endif %}">
+
 		<nav>
     		<ul>
         		<li><a href="{{site.baseurl}}/">Home</a></li>
 				<li><a href="{{'/about' | prepend: site.baseurl}}">About</a></li>
     		</ul>
 		</nav>
+
 		<div class="container">
     
     		{{ content }}
         
 		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="https://github.com/wchoi11">github.com/wchoi11</a></li>
-			</ul>
-		</footer>
+
+		{% include footer.html %}
 
 		<script src="https://unpkg.com/vanilla-back-to-top@7.2.0/dist/vanilla-back-to-top.min.js"></script>
 		<script>addBackToTop({

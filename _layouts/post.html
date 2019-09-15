@@ -1,10 +1,33 @@
----
-layout: default
----
-<h1>{{ page.title }}</h1>
-<p class="meta">First posted: {{ page.date | date_to_string }} </p>
-{% include read_time.html %}
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include header.html %}
+  </head>
 
-<div class="post">
-  {{ content }}
-</div>
+  <body class="post-body">
+    <nav>
+      <ul>
+        <li><a href="{{site.baseurl}}/">Home</a></li>
+        <li><a href="{{'/about' | prepend: site.baseurl}}">About</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+
+      <h1>{{ page.title }}</h1>
+      <p class="meta">First posted: {{ page.date | date_to_string }} </p>
+      {% include read_time.html %}
+
+      {{ content }}
+
+    </div><!-- /.container -->
+
+    {% include footer.html %}
+
+    <script src="https://unpkg.com/vanilla-back-to-top@7.2.0/dist/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+      diameter: 56,
+      backgroundColor: '#e7b983',
+      textColor: '#fff'
+    })</script>
+  </body>
+</html>

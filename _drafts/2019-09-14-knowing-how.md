@@ -38,6 +38,11 @@ will be sufficient for my purposes, but note that it is an oversimplification.
 The most common topic I've seen this distinction used is on education. When we critique
 the current education system, we might say that schools focus too much on memorization
 (knowledge-that) instead of skills (knowledge-how) such as critical thinking.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-demo" class="margin-toggle"/>
+<span class="marginnote">
+  This is a margin note. Notice there isn’t a number preceding the note.
+</span>
 What Jason Stanley & Timothy Williamson (S&W) argue is that this distinction doesn't
 exist so knowledge-how is really propositional knowledge and not a skill or ability.[^paper]
 

@@ -23,13 +23,36 @@ a:hover {
 body {
     margin: 0 auto;
     padding: 0;
-    /*width: 60%;*/
     max-width: 60em;
     font-size: 16px;
     font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #fffff8;
     color: #555;
 }
+
+.post-body {
+    margin: 0;
+    padding: 0;
+    max-width: 60em;
+    font-size: 16px;
+    font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
+    background-color: #fffff8;
+    color: #555;
+    padding-left: 12.5%;
+    width: 50%;
+}
+
+/*post: {*/
+/*    !*margin: 0 auto;*!*/
+/*    padding: 0;*/
+/*    max-width: 60em;*/
+/*    font-size: 16px;*/
+/*    font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';*/
+/*    background-color: #fffff8;*/
+/*    color: #555;*/
+/*    padding-left: 12.5%;*/
+/*    width: 50%;*/
+/*}*/
 
 .eq-caption {
     text-align: center;
@@ -124,6 +147,11 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #555;
+}
+
+.post {
+    /*padding-left: 12.5%;*/
+    /*width: 50%;*/
 }
 
 .post-title {
