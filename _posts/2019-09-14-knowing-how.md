@@ -31,11 +31,11 @@ The cat could either be on the table or not on the table.
 This is surprisingly (or maybe predictably) a contentious area of debate for philosophers. For example,
 if you look up propositions in the Stanford Encyclopedia of Philosophy, a quick skim will show
 that there's no single definition of a proposition. I think my definition
-will be sufficient for my purposes, but note that it is an oversimplification.
+will be sufficient for my purposes but note that it is an oversimplification.
 
 </details>
 
-The most common topic I've seen this distinction used is on education. When we critique
+I've seen this distinction used the most when talking about education. When we critique
 the current education system, we might say that schools focus too much on memorization
 (knowledge-that) instead of skills (knowledge-how) such as critical thinking.[^optimistic]
 What Jason Stanley & Timothy Williamson (S&W) argue is that this distinction doesn't
@@ -47,6 +47,12 @@ exist so knowledge-how is really propositional knowledge and not a skill or abil
 
 
 ## Ryle's argument
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Of course, this isn't the only argument for the distinction, but
+  it's the most famous in the literature.
+</span>
 S&W first challenge the main argument for the distinction between knowledge-that and
 knowledge-how. It's credited to Gilbert Ryle:
 
@@ -68,12 +74,12 @@ knowledge-how. It's credited to Gilbert Ryle:
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
 <span class="marginnote">
-  Philosophers like to sound cool and different so they call these
+  Philosophers like to sound cool so they call these
   proofs *reductios* for short.
 </span>
 Ryle's argument is actually a proof by contradiction or *reductio ad absurdum*.
 Ryle first assumes that there is no distinction and then derives a contradiction
-to show that the assumption that there is no distinction is false.
+to show that the assumption is false.
 
 <details class="explanation">
   <summary>
@@ -192,21 +198,32 @@ Now let's look at premise 3: "If you use knowledge that $p$, then
 you contemplate the proposition $p$." S&W point out that Carl Ginet
 showed there are cases where this is false. If I type the letter "f,"
 I know that the "f" key is under my index finger, but I don't think
-this in my mind when I type the word "fox". S&W suggest that I
+this in my mind when I type the word "fox".
+
+S&W suggest that I
 *unintentionally* contemplate the proposition that the "f" key is
 under my index finger so premise 3 is true only if contemplating
-a proposition is interpreted as an intentional action.
+a proposition is interpreted as an unintentional action. What
+Ginet actually showed is that premise 3 is false if contemplating a
+proposition is an intentional action.
 
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  It's a proof by cases.
+</span>
 Now we have all the ingredients to see why Ryle's argument is
 unsound.
 
-If contemplating a proposition is intentional, then we can't substitute
-"contemplating a proposition $p$" for $F$ because premise 2 is true
-only for intentional actions. This means premise 2 would be false
-when we reapply premise 2. Once again, Ryle's argument is unsound.
+If contemplating a proposition is intentional, then premise 3 is false.
+This means Ryle's argument is unsound.
 
 If contemplating a proposition is unintentional, then
-premise 3 is false so Ryle's argument is unsound.
+we can't substitute
+"contemplating a proposition $p$" for $F$ because premise 2 is true
+only for intentional actions. This means premise 2 would be false
+when we substitute contemplating a proposition. Then, Ryle's
+argument is unsound in this case too.
 
 No matter how we interpret the intentionality of contemplating
 a proposition, Ryle's argument is unsound.
@@ -217,15 +234,16 @@ a proposition, Ryle's argument is unsound.
 S&W first offer a counterexample to Ryle's account of knowledge-how.
 Ryle thought that knowledge of how to $F$ is the ability to $F$, and
 I think this is roughly what we think too. If I know how to ride a
-bike, I have the ability to ride a bike. If I know how to fly, I
-have the ability to fly.
-
-Here is a rather dark counterexample.
+bike, I have the ability to ride a bike.
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
 <span class="marginnote">
-  S&W came up with this, not me!
+  It actually doesn't sound intuitive to me for the last example.
 </span>
+If I know how to fly, I
+have the ability to fly.
+
+Here is a rather dark counterexample.
 Imagine a famous pianist has
 lost both her arms in a terrible accident.
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
@@ -236,14 +254,14 @@ lost both her arms in a terrible accident.
 The pianist knows
 how to play the piano, but she does not have the ability to
 play the piano anymore.
-Then, knowledge of how to $F$
+Thus, knowledge of how to $F$
 is not the ability to $F$.
 
 ### Stanley & Williamson's account
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
 <span class="marginnote">
-  I'm not a linguist by training so please forgive me if I butcher anything.
+  I'm not a linguist by training so forgive me if I butcher anything.
 </span>
 S&W's account gets rather technical (linguistically) so I will
 limit myself to the key points.
@@ -271,5 +289,5 @@ descriptions like "turning the handles to the right to turn right" and
 "pressing down on the pedals to move forward."
 
 And that's the gist of it. There are a lot more technicalities that S&W
-muse over, but with the semantics for embedded questions it's easy
+muse over, but with the semantics for embedded questions it's straightforward
 to see why S&W think that knowledge-how is really just knowledge-that.
