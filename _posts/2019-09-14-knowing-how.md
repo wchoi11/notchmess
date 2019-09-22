@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Did you know that knowledge-how is knowledge-that?"
-date: 2019-09-04
+date: 2019-09-14
 excerpt_separator: <!--cut-->
 ---
 
