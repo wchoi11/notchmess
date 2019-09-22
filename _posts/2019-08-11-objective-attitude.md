@@ -34,9 +34,15 @@ praise or blame people for their actions. People aren't morally responsible for
 their actions so it doesn't make sense to praise
 or blame them for their actions. They were going to do those actions anyways.
 
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  We might think that the ability to choose otherwise is what it
+  means to act freely, but some philosophers have contested this claim too.
+</span>
 For instance, we cannot blame a thief for stealing because the thief was determined,
 whether by environmental factors or some past events, to steal
-so the thief couldn't have chosen otherwise.[^otherwise] The thief isn't morally responsible
+so the thief couldn't have chosen otherwise. The thief isn't morally responsible
 for her actions (she didn't freely choose to steal) so we can't blame the thief.
 
 Likewise, we can't praise someone for saving a drowning child because she was determined to do so by a variety
@@ -44,8 +50,6 @@ of factors. She's not morally responsible for her actions so we can't praise her
 are then just like other determined events of the world such
 as a tree falling over or a hurricane moving over the Atlantic. We can't praise or
 blame any of them.
-
-[^otherwise]: We might think that the ability to choose otherwise is what it means to act freely, but some philosophers have contested this claim too.
 
 ## What's so bad about the objective attitude?
 Philosophers (at least according to Sommers) give two reasons: (1) the implications
@@ -79,22 +83,31 @@ are morally responsible for their actions. We feel angry at someone because
 we believe she freely chose to hurt us or we might feel grateful to someone because
 we think she freely chose to help us.
 
-<!-- Additionally, if someone cuts in front of the line, I'm very tempted to blame them
-for doing so. But under the objective attitude I shouldn't! It was determined from
-the start for that person to cut in front of the line. -->
 
 ## It's not as bad as you think
 To show that we should be more optimistic about adopting the objective attitude,
 Sommers asks us to consider Sally.
 
 Sally is just like you and me except for the fact that she has adopted the
-objective attitude. To see what this looks like, Sommers considers different
+objective attitude.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Sommers also covers love, regret, pride, and indignation.
+</span>
+To see what this looks like, Sommers considers different
 emotions Sally feels such as resentment, gratitude, and guilt. I'll go over
 just two of these.
 
 Imagine that Sally is walking back to her car after a day at work and discovers
-that a thief has stolen her car! If this were me, I would immediately resent and blame
-the thief (of course, after filing a report for my car). I might say things like
+that a thief has stolen her car!
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Of course, after filing a report with the police.
+</span>
+If this were me, I would immediately resent and blame
+the thief. I might say things like
 "Screw you!" or "Why did it have to be me!"
 
 But Sally is different. Sally doesn't blame the thief just like how
@@ -133,7 +146,14 @@ to treat other people as targets of social engineering. In Sommers' own words:
 
 Sommers argues that while we won't be able to adopt the objective attitude
 overnight we can commit to adopting it by adjusting our responses to the events
-around us to be like Sally. Then, over time, we might find that we have fully
+around us to be like Sally.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Sommers thinks Buddhists are pretty close to adopting the objective
+  attitude.
+</span>
+Then, over time, we might find that we have fully
 adopted the objective attitude.[^thanks]
 
 [^thanks]: Many thanks to DS for taking the time to give feedback on this post.

@@ -54,6 +54,11 @@ body {
 /*    width: 50%;*/
 /*}*/
 
+.eq {
+    padding: 0.25rem;
+    border: 1px solid black;
+}
+
 .eq-caption {
     text-align: center;
     bottom: 0.75em;

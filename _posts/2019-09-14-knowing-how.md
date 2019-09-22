@@ -15,8 +15,15 @@ linguistic theories.
 {: id="anchor"}
 
 Many of us (including me!) buy into the distinction between knowledge-that
-and knowledge-how. Knowledge-that is concerned with propositions, and knowledge-how
-is concerned with skills or abilities.
+and knowledge-how. Knowing that the sky is blue is one type of knowledge,
+and knowing how to swim is another type.
+
+Knowledge-that is concerned with propositions, and
+knowledge-how is concerned with skills or abilities.
+As you've probably noticed, we say
+knowledge-that because we always use some form of
+"know that" when giving examples
+of knowledge-that and some form of "know how" for knowledge-how.
 
 
 <details class="explanation">
@@ -35,13 +42,25 @@ will be sufficient for my purposes but note that it is an oversimplification.
 
 </details>
 
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Well, at least for the US K-12 education system.
+</span>
 I've seen this distinction used the most when talking about education. When we critique
 the current education system, we might say that schools focus too much on memorization
 (knowledge-that) instead of skills (knowledge-how) such as critical thinking.[^optimistic]
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  So you can memorize how to swim? I think this is
+  one interesting implication of S&W's argument, and
+  it makes more sense if you think about it in terms of muscle memory.
+</span>
 What Jason Stanley & Timothy Williamson (S&W) argue is that this distinction doesn't
-exist so knowledge-how is really propositional knowledge and not a skill or ability.[^paper]
+exist so knowledge-how is really just propositional knowledge and not a skill or ability.[^paper]
 
-[^optimistic]: I think we should be more optimistic about education if this distinction doesn't exist. If knowledge-how is propositional knowledge, it would be easier to teach skills like critical thinking without thinking that some students simply don't have the capacity to learn the skill.
+[^optimistic]: I think we should be more optimistic about education if this distinction doesn't exist. If knowledge-how is propositional knowledge, it would be easier to teach skills like critical thinking without assuming that some students simply don't have the capacity to learn the skill.
 
 [^paper]: "Knowing How," *The Journal of Philosophy* 98:8 (2001):p.411-444.
 
@@ -54,7 +73,7 @@ exist so knowledge-how is really propositional knowledge and not a skill or abil
   it's the most famous in the literature.
 </span>
 S&W first challenge the main argument for the distinction between knowledge-that and
-knowledge-how. It's credited to Gilbert Ryle:
+knowledge-how. Gilbert Ryle came up with the argument:
 
 <ol class="argument">
 
@@ -62,12 +81,12 @@ knowledge-how. It's credited to Gilbert Ryle:
   <label for="mn-demo" class="margin-toggle">&#8853;</label>
   <input type="checkbox" class="margin-toggle"/>
   <span class="marginnote">
-    $F$ is an action, but we'll soon see that this isn't
+    $F$ is an action, but we'll soon see that it can't be
     <strong>all</strong> actions.
   </span>
   <li>If you $F$, then you use knowledge of how to $F$.</li>
   <li>If you use knowledge that $p$, then you contemplate the proposition $p$.</li>
-  <li>(Conclusion) Knowledge-how is not a type of knowledge-that</li>
+  <li>(Conclusion) Knowledge-how is not a type of knowledge-that.</li>
 
 </ol>
 
@@ -110,6 +129,7 @@ For example, here is an argument to show that there is no largest prime number:
 
 So what is the contradiction? Let's walk through an example to see how
 Ryle derives one.
+
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
 <span class="marginnote">
@@ -233,7 +253,7 @@ a proposition, Ryle's argument is unsound.
 ### Ryle's account
 S&W first offer a counterexample to Ryle's account of knowledge-how.
 Ryle thought that knowledge of how to $F$ is the ability to $F$, and
-I think this is roughly what we think too. If I know how to ride a
+I believe this is roughly what we think too. If I know how to ride a
 bike, I have the ability to ride a bike.
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
@@ -249,7 +269,11 @@ lost both her arms in a terrible accident.
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
 <span class="marginnote">
-  But what if the pianist got prosthetic arms? Wouldn't we say the pianist always had the ability to play piano? Maybe it's more accurate to call it a latent ability when she didn't have arms.
+  But what if the pianist got prosthetic arms
+  (like <strong>really</strong> good ones)? Wouldn't
+  we say the pianist always had the ability to play piano?
+  Maybe it's more accurate to call it a latent ability
+  when she didn't have arms.
 </span>
 The pianist knows
 how to play the piano, but she does not have the ability to
@@ -273,7 +297,7 @@ The key observation S&W make is that (1) has an *embedded question*,
 "how to ride a bike." Under standard linguistic theory, embedded
 questions denote (stand in for) the "set of its true answers" (p.420).[^dishonest]
 
-[^dishonest]: I'm actually being dishonest here. Instead of standard linguistic theory, it's really Lauri Karttunen's semantics that S&W are using, but S&W think that standard linguistic theories agree with the basics of Karttunen's semantics for embedded questions.
+[^dishonest]: I'm actually being a little dishonest here. Instead of standard linguistic theory, it's really Lauri Karttunen's semantics that S&W are using, but S&W think that standard linguistic theories agree with the basics of Karttunen's semantics for embedded questions.
 
 It's easier to see what this means with another embedded question. If I
 say, "I know where my bike is," then the embedded question is "where my bike
@@ -289,5 +313,7 @@ descriptions like "turning the handles to the right to turn right" and
 "pressing down on the pedals to move forward."
 
 And that's the gist of it. There are a lot more technicalities that S&W
-muse over, but with the semantics for embedded questions it's straightforward
-to see why S&W think that knowledge-how is really just knowledge-that.
+muse over, but S&W think that knowledge-how is really just knowledge-that
+because of how the semantics for embedded questions works out.[^thanks]
+
+[^thanks]: Many thanks to DS and SS for taking the time to give feedback on this post.

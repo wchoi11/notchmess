@@ -15,9 +15,18 @@ public moral discourse.
 It's needless to say that public moral discourse is important. Without first discussing the moral issues of our time, how else can we expect moral improvement in the society or
 community we live in?
 
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Interestingly enough, Tosi & Warmke don't like the term "virtue signaling."
+  See their reason
+  [here](https://www.adamsmith.org/blog/stop-saying-virtue-signalling).
+  They link to this article from their Aeon
+  [article](https://aeon.co/ideas/moral-grandstanding-theres-a-lot-of-it-about-all-of-it-bad).
+</span>
 However, as Justin Tosi and Brandon Warmke argue, moral grandstanding
 or what might be more familiarly known as virtue signaling threatens to undermine
-our public moral discourse.[^paper] [^virtue_signaling]
+our public moral discourse.[^paper]
 
 What is moral grandstanding and why exactly is it bad? Tosi & Warmke offer their
 own account of moral grandstanding, but disappointingly don't also offer
@@ -26,23 +35,35 @@ not!** To defeat the enemy, you must first understand her.
 
 [^paper]: "Moral Grandstanding," *Philosophy & Public Affairs* 44:3 (2016):p.197-217. Tosi & Warmke have also written a layman explanation of their paper [here](https://aeon.co/ideas/moral-grandstanding-theres-a-lot-of-it-about-all-of-it-bad).
 
-[^virtue_signaling]: Interestingly enough, Tosi & Warmke don't like the term "virtue signaling." See their reason [here](https://aeon.co/ideas/moral-grandstanding-theres-a-lot-of-it-about-all-of-it-bad).
-
 ## Who is the grandstander?
 {: id="anchor"}
 
-The moral grandstander is someone who seeks to satisfy her recognition desire&mdash;the desire to appear morally respectable to others.[^brevity]
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  For the sake of brevity, when I say grandstander, I mean
+  moral grandstander. When I say grandstanding, I mean
+  moral grandstanding.
+</span>
+The moral grandstander is someone who seeks to satisfy her recognition
+desire&mdash;the desire to appear morally respectable to others.
 
 I might want others to think I hold "respectable moral beliefs" or that I make respectable moral
-judgments (p.201). This recognition desire is the driving motivation for grandstanders,
-and I think it's an understandable motivation.[^admit] I don't want other people to think
-that I torture puppies for fun.[^mean]
-
-[^brevity]: For the sake of brevity, when I say grandstander, I mean moral grandstander. When I say grandstanding, I mean moral grandstanding.
+judgments (p.201).
+This recognition desire is the driving motivation for grandstanders,
+and I think it's an understandable motivation.[^admit]
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Let me clarify here that I don't torture puppies for fun, and I would
+  never want someone to think that I do. This is not a case where I do
+  torture puppies for fun and don't want others to think that I do
+  (though this does get into interesting philosophical territory...).
+</span>
+I don't want other people to think
+that I torture puppies for fun.
 
 [^admit]: Tosi and Warmke admit that this recognition desire may not be present at all in some cases of grandstanding so they focus on the paradigmatic cases of grandstanding.
-
-[^mean]: Let me clarify here that I don't torture puppies for fun, and I would never want someone to think that I do. This is not a case where I do torture puppies for fun and don't want others to think that I do (though this does get into interesting philosophical territory).
 
 ## What does the grandstander do?
 
@@ -84,12 +105,18 @@ position with the group.
 ### Ramping up
 Ramping up is making increasingly more dramatic claims about how to respond to
 a moral issue. Imagine back to the discussion that Jocko, Xena, and Trevor were
-having. Trevor might say, "I think we should create a petition for this." Then, if
+having. Trevor might say, "I think we should create a petition for this."
+Then, if
 Jocko and Xena ramp up, Xena might say, "No, what we should really be doing is
-asking for his resignation" and then Jocko might say, "No, if we're taking this
-seriously we should be seeking criminal charges. I'll go call my lawyer right now." [^maybe]
-
-[^maybe]: Okay, maybe Jocko won't actually say that last bit.
+asking for his resignation" and
+then Jocko might say, "No, if we're taking this
+seriously we should be seeking criminal charges.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Okay, maybe Jocko won't actually say that last bit.
+</span>
+I'll go call my lawyer right now."
 
 In this situation, Jocko and Xena are contributing to the discussion, but something
 seems to have gone terribly wrong. Tosi & Warmke think that Jocko and Xena
@@ -120,11 +147,18 @@ others that I care about the issue this much.
 ### Claims of self-evidence
 Claims of self-evidence are statements like "Of course this is wrong!" and "How could you think this is alright?" By themselves, these claims don't seem entirely malicious, but when asserted in discussions on a moral issue where it's not obvious which side is right, it quickly becomes problematic. By claiming one side of a moral issue is obviously right, the grandstander tries to show that her "moral sensibilities are more finely tuned than those of others" (p.208). The grandstander wants others to think that she is better at figuring out what is moral and what is not. This is just another way of the grandstander trying to show that she is more morally respectable than others.
 
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Tosi & Warmke seem to be assuming something like "If an account of
+  a phenomenon explains all aspects of that phenomenon, the account is true."
+  But what guarantees the account is true just because it explains a
+  phenomenon? What if the account doesn't line up with reality?
+</span>
 And that wraps up all 5 things the grandstander may do. Tosi & Warmke argue that
 their account is correct because their account can explain all 5 ways that
-grandstanders contribute to public moral discourse.[^worry]
+grandstanders contribute to public moral discourse.
 
-[^worry]: One worry I have is that though their account may smoothly explain the 5 ways a grandstander acts, how does this actually explain what is going on in a grandstander's head? The account might not line up with reality so Tosi & Warmke seem to be assuming "If an account of a phenomenon explains all aspects of that phenomenon, the account is true."
 
 ## What is bad about grandstanding?
 Tosi & Warmke discuss a variety of problems, but I'll focus on four problems the
@@ -149,11 +183,18 @@ Lastly, Tosi & Warmke think that the grandstander free rides off of the work don
 public moral discourse. The grandstander makes loud claims about some moral issue
 to raise awareness and then the participants of public moral discourse who
 become aware of this issue may work to solve it.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  My worry here is that Tosi & Warmke seem to think that it's wrong
+  for the grandstander to get public recognition for solving a moral
+  issue when the grandstander might not have done anything to help.
+  I'm thinking specifically about how it seems right to praise journalists
+  or whistleblowers for raising the alarm on important moral issues.
+</span>
 Their solution might be to organize protests to increase social pressure for reform. But in the end,
 Tosi & Warmke think that the grandstander unfairly gets public recognition for solving
-the moral issue while not actually working to solve the issue.[^second_worry]
-
-[^second_worry]: My worry here is that Tosi & Warmke seem to think that it's wrong for the grandstander to get public recognition for solving a moral issue when the grandstander might not have done anything to help. I'm thinking specifically about how it seems right to praise journalists or whistleblowers for raising the alarm on important moral issues.
+the moral issue while not actually working to solve the issue.
 
 ## Some qualifications
 Having said all this, Tosi & Warmke don't think that **all** grandstanding is bad.
