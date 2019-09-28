@@ -316,4 +316,4 @@ And that's the gist of it. There are a lot more technicalities that S&W
 muse over, but S&W think that knowledge-how is really just knowledge-that
 because of how the semantics for embedded questions works out.[^thanks]
 
-[^thanks]: Many thanks to DS and SS for taking the time to give feedback on this post.
+[^thanks]: Many thanks to DS and SGS for taking the time to give feedback on this post.
