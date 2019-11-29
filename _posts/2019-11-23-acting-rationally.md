@@ -41,7 +41,7 @@ best judgment.
 [^paper]: Arpaly, N. (2000). On Acting Rationally against One's Best Judgment. *Ethics* 110(3), 488-513.
 
 ## A distinction
-I need to first clarify exactly what Arpaly is arguing for. Arpaly is not arguing
+I need to first clarify exactly what Arpaly is arguing for. Arpaly is **not** arguing
 that in some cases like the movie example I should think to myself "Oh, I should act against my
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
@@ -91,9 +91,12 @@ to her dissatisfaction and lack of motivation, but when she deliberates whether 
 the program, she does not consider these reasons for whatever reason.
 
 But one day, "on an impulse," she quits after these negative feelings grow too
-much for her to handle (p.504). She might call her action irrational since she
-still thinks her best judgment is to stick with the program, but a few years
-later she realizes why she felt so dissatisfied with the program. Now, when
+much for her to handle (p.504). She might even call her action irrational since she
+still thinks her best judgment is to stick with the program.
+
+A few years
+later, now that she has settled into a new job,
+she realizes why she felt so dissatisfied with the program. Now, when
 someone asks her why she quit she says that her talents lied elsewhere and
 that the program did not fit her research interests.
 
@@ -103,23 +106,42 @@ by going with her best judgment.
 
 ## An objection
 
-An immediate objection to this example
-and one that I also had was this: Arpaly seems to
-assume incorrectly that "one can act for good reasons...without knowing
+An immediate objection to this example is this: Arpaly seems to
+assume incorrectly that "one can act for good reasons...without *knowing*
 that one is acting for good reasons" (p.505). How is it possible to act
-for the right reasons if I don't even know I'm acting for the right reasons? This seems
-more like a happy coincidence.
-Emily does not act for the right
-reasons because she did not deliberate and reach the conclusion to quit
-based on these reasons. Only then would she act for the right reasons and be
-rational in quitting. It seems necessary for acting rationally that I deliberate.
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  If you're an externalist about reasons for actions, this is possible, but
+  Arpaly wants her argument to work without being an externalist.
+</span>
+for good reasons if I don't even know I'm acting for good reasons?
+This seems more like a happy coincidence.
 
-<!-- DOUBLE CHECK THE FORMULATION OF THE OBJECTION -->
+
+If we follow the objection, in Emily's case, Emily does not actually act for good
+reasons because she did not know these reasons (e.g. not a good fit for the program).
+If we were to ask Emily why she quit on the day she quits, she could
+not tell us why.
+
+But had she decided to quit after deliberation based on
+reasons like 'I'm not a good fit for this program', then we would consider
+her to act for good reasons. She can tell us these reasons if asked.
+
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  I wonder how obvious or counterintuitive this idea is.
+</span>
+It looks like that acting *for* good reasons requires deliberation. To act
+*for* some reasons means I arrived at my decision through
+deliberation based on those reasons.
 
 ## Rational action without deliberation
 
 Arpaly responds to the objection by showing there are plenty of cases
-where we act rationally without deliberation.
+where we act rationally without deliberation. This means I can act
+for reasons that I don't know.
 
 ### Fast actions
 
@@ -128,13 +150,14 @@ does not have the time to deliberate on all her actions during the match. Some
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
 <span class="marginnote">
-  I have strong doubts about this claim, and it seems like an
-  empirical question that psychologists would be in a much
-  better position to answer whether the tennis player really
+  It seems more like an
+  empirical question whether the tennis player really
   does not deliberate before some of her actions.
 </span>
 of her actions happen so quickly that the player does not deliberate before
-her action. However, we do praise the tennis player for even actions like these
+her action.
+
+However, we praise the tennis player for even actions like these
 where there is no prior deliberation. We might say a player was "brilliant"
 in one play, meaning we attribute rationality to a player's action even if
 there was no prior deliberation.
@@ -143,19 +166,25 @@ there was no prior deliberation.
 
 I found this the most interesting set of cases Arpaly considers. Dawning is
 "cases in which people change their minds, sans [without] deliberation,
-as a result of a long period of exposure to new evidence" (p.508).
+as a result of a long period of exposure to new evidence" (p.508).[^related]
+
+[^related]: Cases of dawning seem to be related to what happens when we follow the advice of 'Sleep on it'. For example, if I'm working on a proof and can't figure out how to get it to work, I might step away for a while (e.g. attempt it the next day, come back after dinner, etc.). Afterwards, I realize that I can do the proof. This is not really like dawning because there's no exposure to new evidence, but I do not deliberate about the problem while I'm away.
 
 Arpaly considers an alternative story of Emily. This time Emily realizes at the
 end of her third year in the program that she should quit. This happens because
 over the course of her three years she registers in her mind all the
 right reasons to quit, but she does not include them in her deliberations about whether
 she should
-continue the program. At the end of her third year, this gradual process of
+continue the program.
+
+At the end of her third year, this gradual process of
 registering all the reasons to quit makes her realize she should quit. In
 other words, it dawns
-on her that she should quit. This is different from before because her best
-judgment changes, but she does not deliberate at any point about reasons
-to quit. Thus, Emily rationally quits but did not deliberate at any point to quit.[^fringe]
+on her that she should quit.
+
+This case is different from before because Emily's best
+judgment changes, but she does not deliberate at any point about quitting.
+Thus, Emily rationally quits but did not deliberate at any point to quit.[^fringe]
 
 [^fringe]: I wonder if Arpaly's cases are really just fringe cases that point out problems with our ordinary conception of deliberation. Fast actions and dawning still are cases with deliberation (at least they seem so to me), but the deliberation in these fringe cases is a different conception of deliberation than the ordinary one.
 
@@ -171,4 +200,4 @@ caused by some good reason I'm not considering.
 
 If Arpaly is right, there's nothing special about our best judgment
 when we deliberate about what to do. It could be more rational to act against your
-best judgment. 
+best judgment.
