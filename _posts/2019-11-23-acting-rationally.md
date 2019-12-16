@@ -29,7 +29,7 @@ as soon as I reach my decision, one of my friends calls me and asks me if I'm co
 After a moment of hesitation, I agree to come.
 
 What went wrong here? Most people would agree that I've done something
-irrational. It was my best judgment to work on my paper, but I acted against it by
+irrational. My best judgment was to work on my paper, but I acted against it by
 going to watch the movie.
 
 In general, most (if not all) people seem to assume that acting against
@@ -49,7 +49,7 @@ that in some cases like the movie example I should think to myself "Oh, I should
   Assuming that there is a way to figure out if I'm in a case where I should
   act against my best judgment.
 </span>
-best judgment so I should go watch the movie" and go with my friends.
+best judgment so I should go watch the movie and go with my friends."
 
 In this sort of case, my
 best judgment would have flipped from 'work on the term paper more' to
@@ -88,7 +88,7 @@ to her dissatisfaction and lack of motivation, but when she deliberates whether 
   but hey, I'm not a psychologist
   how should I know?
 </span>
-the program, she does not consider these reasons for whatever reason.
+the program, she does not consider these reasons.
 
 But one day, "on an impulse," she quits after these negative feelings grow too
 much for her to handle (p.504). She might even call her action irrational since she
@@ -106,7 +106,7 @@ by going with her best judgment.
 
 ## An objection
 
-An immediate objection to this example is this: Arpaly seems to
+An immediate objection to the above example is this: Arpaly seems to
 assume incorrectly that "one can act for good reasons...without *knowing*
 that one is acting for good reasons" (p.505). How is it possible to act
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
@@ -200,4 +200,6 @@ caused by some good reason I'm not considering.
 
 If Arpaly is right, there's nothing special about our best judgment
 when we deliberate about what to do. It could be more rational to act against your
-best judgment.
+best judgment.[^thanks]
+
+[^thanks]: Many thanks to DS for taking the time to give feedback on this post.
