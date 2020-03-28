@@ -145,8 +145,18 @@ true belief. The aim also includes things like forming a
 *reasonable* belief or a *justified* belief.
 
 ### Self-undermining
+You might object that Huemer actually offers a self-undermining
+argument. For you to accept his conclusion that you should choose
+deference or skepticism instead of critical thinking, you have
+to use critical thinking! How can you use critical thinking to
+arrive at the belief that you shouldn't use critical thinking!
 
 ### How to identify experts
+You might object that we still have to use critical thinking to
+identify who the experts are. Huemer actually concedes this
+and writes that he actually supports the more "modest thesis"
+that only for the issue itself we should not use critical thinking.
+This means the scope of his argument is a lot more narrow.[^thanks]
 
 
 [^thanks]: Many thanks to ... for taking the time to give feedback on this post.
