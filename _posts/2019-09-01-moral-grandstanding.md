@@ -3,6 +3,7 @@ layout: post
 title: "The first enemy"
 date: 2019-09-01
 excerpt_separator: <!--cut-->
+comments: true
 ---
 
 ## The Short Version

@@ -3,6 +3,7 @@ layout: post
 title: "Okay Google, should I punch my friend?"
 date: 2019-06-03
 excerpt_separator: <!--cut-->
+comments: true
 ---
 ## The Short Version
 Forming beliefs on moral issues by deferring to someone or something else is problematic because these beliefs don't integrate with our moral character.

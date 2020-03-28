@@ -3,6 +3,7 @@ layout: post
 title: "It just dawned on me that..."
 date: 2019-11-23
 excerpt_separator: <!--cut-->
+comments: true
 ---
 
 ## The Short Version

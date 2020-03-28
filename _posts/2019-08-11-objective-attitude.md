@@ -3,6 +3,7 @@ layout: post
 title: "Huh, determinism isn't that bad after all!"
 date: 2019-08-11
 excerpt_separator: <!--cut-->
+comments: true
 ---
 
 ## The Short Version

@@ -3,6 +3,7 @@ layout: post
 title: "Why Pascal was wrong after all"
 date: 2019-06-22
 excerpt_separator: <!--cut-->
+comments: true
 ---
 
 ## The Short Version
