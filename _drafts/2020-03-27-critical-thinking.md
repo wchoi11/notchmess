@@ -36,7 +36,14 @@ whether a thing is F," and B is 60 percent accurate (Huemer, 524).
 Presumably, you would choose device A to figure out if something is F.
 You want to use the device that is more accurate.
 
-With this conclusion in mind, consider for a moment just deference
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Skepticism is not an option if I want/have to form a belief
+  on the matter so I think it's more interesting to consider
+  only the first 2 strategies.
+</span>
+With this conclusion in mind, consider just deference
 and critical thinking. By using deference, you are more likely to
 form a true belief because an expert, especially a group of experts,
 is more likely than you (assuming you are a layperson on the issue)
@@ -53,6 +60,93 @@ deference is like choosing device A from above over device B.
 Deference is more accurate than critical thinking so by the
 same reasoning that we choose device B we should choose deference
 over critical thinking.
+
+When should we choose skepticism then? We choose skepticism
+in cases where deference is not possible. This may mean there is no
+expert consensus or maybe it is difficult for you
+to figure out what the expert consensus is.
+
+Even in this case, you should not choose critical thinking.
+If there is no expert consensus and you arrive at some belief
+through critical thinking, why should you think you're likely
+to have arrived at a true belief? After all, even the experts couldn't
+agree on what the right answer is so it's unlikely that you
+have arrived at the right belief. Thus, even in this case,
+you should not choose critical thinking and instead opt
+for skepticism.
+
+## The dilemma
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  And really anyone else who supports critical thinking.
+</span>
+Those who teach critical thinking face a dilemma.
+Suppose you teach a critical thinking course and one of your
+students who took your course last semester tells you that
+after employing the critical thinking skills she acquired
+from your course
+she now believes we should abolish the use of the death penalty.
+Supposing that you are not an expert on this issue, should
+you now also believe that we should abolish the death penalty?
+
+If you think yes, this is a strike against critical thinking. Why?
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  I think Huemer is wrong here. My saying yes doesn't
+  have to mean that I am now fully confident that we
+  should abolish the death penalty. All it could mean
+  is that I now have a slightly higher degree of confidence
+  that we should abolish the death penalty and I'm still unsure
+  whether we should abolish it.
+</span>
+*You* did not use critical thinking to arrive at the belief that
+we should abolish the use of the death penalty. So you should not
+agree with your student just yet.
+
+But if you think no, this is also a strike against critical thinking.
+If the critical thinking skills you teach are what this student used
+to arrive at the belief that we should abolish the use of the death penalty,
+then your saying no is a "negative assessment" of those very skills
+you taught (Huemer, 526).
+
+The upshot is this: it seems that if I use critical thinking to
+form some belief then only I have good reason to hold that
+belief. Even if I tell others of my belief, they would not have
+good reason to hold the same belief unless they thought through
+the issue critically on their own.
+
+## Some objections
+Here are some of the objections that Huemer anticipates.
+
+### Why not choose both?
+You might object that we don't have to choose between deference
+and critical thinking. We can weight the two in a new strategy
+that combines the two.
+
+But Huemer replies that even in such a strategy you should give
+very little--if any--weight to critical thinking. Because a group
+of experts is more (probably much more) reliable than you are,
+it doesn't make sense to give significant weight to critical thinking.
+This means that the new combined strategy will really be no different
+from deference.
+
+### The aim of critical thinking
+You might object that Huemer misunderstands the aim of critical
+thinking. The aim of critical thinking is not just to form a
+true belief. The aim also includes things like forming a
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  These are technically different kinds of beliefs, but I
+  guess it also depends on the philosopher you ask.
+</span>
+*reasonable* belief or a *justified* belief.
+
+### Self-undermining
+
+### How to identify experts
 
 
 [^thanks]: Many thanks to ... for taking the time to give feedback on this post.
