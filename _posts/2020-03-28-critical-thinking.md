@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Should we think critically?"
-date: 2020-03-27
+date: 2020-03-28
 excerpt_separator: <!--cut-->
-comments: true
 ---
 
 ## The Short Version
@@ -16,7 +15,9 @@ You should defer to the expert consensus instead of thinking critically.
 
 This is a personal favorite of mine from Michael Huemer (2005).[^paper]
 Take any controversial public issue of your time. For me, this includes
-issues such as abortion and gun rights. There are at least 3 strategies you
+issues such as abortion and gun rights. To make this easier,
+let us assume there is a fact of the matter for these issues; that is,
+there is a right answer to these issues. There are at least 3 strategies you
 may employ to make up your mind on the matter: (1) deference--adopt
 the belief that most experts hold, (2) critical thinking--after
 conducting your own investigation of the issue, you assess the
@@ -47,8 +48,13 @@ With this conclusion in mind, consider just deference
 and critical thinking. By using deference, you are more likely to
 form a true belief because an expert, especially a group of experts,
 is more likely than you (assuming you are a layperson on the issue)
-to arrive at a true belief on the matter. In this way, choosing
-deference is like choosing device A from above over device B.
+to arrive at a true belief on the matter. No matter how much research
+you may have done, you as a layperson are no match for a group
+of experts who have dedicated a lengthy portion of their lives
+studying the issue.
+
+In this way, choosing
+deference is like choosing device A over device B.
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
 <span class="marginnote">
@@ -66,7 +72,7 @@ in cases where deference is not possible. This may mean there is no
 expert consensus or maybe it is difficult for you
 to figure out what the expert consensus is.
 
-Even in this case, you should not choose critical thinking.
+But even in this case, you should not choose critical thinking.
 If there is no expert consensus and you arrive at some belief
 through critical thinking, why should you think you're likely
 to have arrived at a true belief? After all, even the experts couldn't
@@ -91,34 +97,47 @@ Supposing that you are not an expert on this issue, should
 you now also believe that we should abolish the death penalty?
 
 If you think yes, this is a strike against critical thinking. Why?
-<label for="mn-demo" class="margin-toggle">&#8853;</label>
-<input type="checkbox" class="margin-toggle"/>
-<span class="marginnote">
-  I think Huemer is wrong here. My saying yes doesn't
-  have to mean that I am now fully confident that we
-  should abolish the death penalty. All it could mean
-  is that I now have a slightly higher degree of confidence
-  that we should abolish the death penalty and I'm still unsure
-  whether we should abolish it.
-</span>
 *You* did not use critical thinking to arrive at the belief that
 we should abolish the use of the death penalty. So you should not
 agree with your student just yet.
 
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  I think Huemer is wrong here. I don't have to
+  answer yes (or no), meaning I am now
+  fully confident (or fully unconfident) that we
+  should abolish the death penalty. I could
+  have a slightly higher or lower degree of confidence
+  that we should abolish the death penalty, and I may be still unsure
+  whether we should abolish it.
+</span>
 But if you think no, this is also a strike against critical thinking.
 If the critical thinking skills you teach are what this student used
 to arrive at the belief that we should abolish the use of the death penalty,
 then your saying no is a "negative assessment" of those very skills
-you taught (Huemer, 526).
+you taught (Huemer, 526). Effectively, you are saying that using
+the critical thinking skills you taught are not enough to convince
+someone of the truth of your belief.
 
+
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Asking the student for her reasons is also a strike against
+  critical thinking because this means that her using critical
+  thinking is not good enough for you to hold the same belief.
+</span>
 The upshot is this: it seems that if I use critical thinking to
 form some belief then only I have good reason to hold that
-belief. Even if I tell others of my belief, they would not have
+belief. Even if I tell others of the belief, they would not have
 good reason to hold the same belief unless they thought through
 the issue critically on their own.
 
 ## Some objections
-Here are some of the objections that Huemer anticipates.
+And that's the gist of the paper!
+To wrap up, here are a few common/interesting objections
+that Huemer anticipates.
 
 ### Why not choose both?
 You might object that we don't have to choose between deference
@@ -136,27 +155,52 @@ from deference.
 You might object that Huemer misunderstands the aim of critical
 thinking. The aim of critical thinking is not just to form a
 true belief. The aim also includes things like forming a
+*reasonable* belief or a *justified* belief.
+
 <label for="mn-demo" class="margin-toggle">&#8853;</label>
 <input type="checkbox" class="margin-toggle"/>
 <span class="marginnote">
-  These are technically different kinds of beliefs, but I
-  guess it also depends on the philosopher you ask.
+  I think Huemer isn't being very charitable with this objection.
+  Surely, what you mean by raising this objection is that your
+  belief acquired from deference is not justified by the same
+  reasons the experts have. You don't know why the experts
+  hold the belief. This means that though your belief
+  may be more likely to be true it is not justified.
 </span>
-*reasonable* belief or a *justified* belief.
+But Huemer points out that experts are more likely than you are
+to hold reasonable beliefs or justified beliefs on the issue so
+you should still defer to experts if the aim of critical thinking
+is to acquire reasonable or justified beliefs.
 
 ### Self-undermining
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  It's also self-undermining in that if you defer to
+  experts on whether to choose deference or critical
+  thinking then you will find the consensus is to
+  choose critical thinking. How paradoxical!
+</span>
 You might object that Huemer actually offers a self-undermining
 argument. For you to accept his conclusion that you should choose
 deference or skepticism instead of critical thinking, you have
 to use critical thinking! How can you use critical thinking to
 arrive at the belief that you shouldn't use critical thinking!
 
+<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" class="margin-toggle"/>
+<span class="marginnote">
+  Needless to say, I don't buy this reply.
+</span>
+Huemer replies that the audience of his paper is other experts
+so that when people are deciding between deference and critical
+thinking the expert consensus will be for deference.
+
 ### How to identify experts
 You might object that we still have to use critical thinking to
 identify who the experts are. Huemer actually concedes this
 and writes that he actually supports the more "modest thesis"
-that only for the issue itself we should not use critical thinking.
-This means the scope of his argument is a lot more narrow.[^thanks]
+that only for the issue itself we should not use critical thinking (529).
 
 
 [^thanks]: Many thanks to ... for taking the time to give feedback on this post.
