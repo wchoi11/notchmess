@@ -64,7 +64,7 @@ deference is like choosing device A over device B.
   we should defer to the experts.
 </span>
 Deference is more accurate than critical thinking so by the
-same reasoning that we choose device B we should choose deference
+same reasoning that we choose device A we should choose deference
 over critical thinking.
 
 When should we choose skepticism then? We choose skepticism
