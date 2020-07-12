@@ -2,7 +2,6 @@
 Making philosophy a little more accessible
 
 # TODO 
-* Override max-width with none for header
 * Proper credit for header image
 * Swap MathJax with KaTeX
 

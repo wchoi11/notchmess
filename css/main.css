@@ -28,8 +28,6 @@ blockquote {
 
 body {
     margin: 0 auto;
-    padding: 0;
-    max-width: 60em;
     font-size: 16px;
     font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #fffff8;
@@ -108,7 +106,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     line-height: 1.2;
-    max-width: none;
+    min-height: 500px;
     padding: 10vw 2em;
     text-align: center;
 }
@@ -143,7 +141,14 @@ header a:hover {
     font-size: 0.9em;
 }
 
-nav ul, footer ul {
+nav ul {
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    font-weight: bold;
+}
+
+footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -208,6 +213,7 @@ td{
 ul.posts { 
     margin: 20px auto 40px;
     font-size: 1em;
+    width: 75%;
 }
 
 ul.posts li {

@@ -3,7 +3,7 @@
 	<head>
         {% include header.html %}
 	</head>
-	<body class="{% if page.style %} {{ page.style }} {% endif %}">
+	<body>
 
 		<nav>
     		<ul>
@@ -12,11 +12,9 @@
     		</ul>
 		</nav>
 
-		<div class="container">
     
-    		{{ content }}
-        
-		</div><!-- /.container -->
+		{{ content }}
+
 
 		{% include footer.html %}
 
