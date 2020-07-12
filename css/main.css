@@ -34,6 +34,12 @@ body {
     color: #555;
 }
 
+.credit {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
 .post-body {
     margin: 0;
     padding: 0;
