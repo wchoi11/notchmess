@@ -2,6 +2,7 @@
 Making philosophy a little more accessible
 
 # TODO 
+* Fix CSS styling for explanations
 * Swap MathJax with KaTeX
 
 # Past Bugs
