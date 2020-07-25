@@ -26,9 +26,9 @@ a:hover {
 }
 
 blockquote {
-    border-left: .25em solid #dfe2e5;
+    border-left: 2px solid #dfe2e5;
     color: #6a737d;
-    padding: 0 1em;
+    padding: 0 10px;
 }
 
 body {
@@ -55,6 +55,24 @@ body {
     color: #555;
     padding-left: 12.5%;
     width: 50%;
+}
+
+.post-body h2:before {
+    content: " ";
+    display: block;
+    border-bottom: 1px solid #ececec;
+    margin-bottom: 40px;
+}
+
+.post-body h3:before {
+    content: " ";
+    display: block;
+    margin-bottom: 30px;
+}
+
+.post-body p {
+    font-weight: 400;
+    line-height: 1.7;
 }
 
 /*post: {*/
@@ -97,17 +115,17 @@ footer {
 }
 
 h1 {
-    font-size: 3em;
-    color: #333;
-}
-
-h2 {
     font-size: 2em;
     color: #333;
 }
 
-h3 {
+h2 {
     font-size: 1.5em;
+    color: #333;
+}
+
+h3 {
+    font-size: 1.25em;
     color: #333;
 }
 
@@ -129,7 +147,7 @@ header h1 {
     /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
     font-size: 2.5em;
     font-weight: 300;
-    margin-top: 100px;
+    margin-top: 95px;
 }
 
 header a {
@@ -173,9 +191,9 @@ nav ul li, footer ul li {
 }
 
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
     color: #555;
+    font-size: 1.1em;
+    line-height: 1.7;
 }
 
 .post {
@@ -184,18 +202,21 @@ p {
 }
 
 .post-title {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .post-preview {
     /*Brown: 38220ED6*/
-    border-left: 5px solid #a7a7a7;
-    background: #ececec;
-    padding: 1em;
+    border-top: 2px solid #a7a7a7;
+    padding: 10px;
 }
 
 .post-preview h2 {
-    font-size: 1.5em;
+    font-size: 1em;
+}
+
+.post-preview p {
+    font-size: 1em;
 }
 
 .read-time {

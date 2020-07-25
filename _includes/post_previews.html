@@ -1,0 +1,16 @@
+{% for post in site.posts %}
+<li>
+    <div class="post-preview">
+        <a class="post-title" href="{{ post.url | prepend: site.baseurl}}" title="{{ post.title }}">
+            {{ post.title }}
+        </a>
+<!--        <span class="post-title"> » {{ post.date | date_to_string }}</span>-->
+        <!--        Guillemet »«-->
+
+        <p>{{ post.excerpt }}</p>
+        {% if post.excerpt != post.content %}
+        <a href="{{ site.baseurl }}{{ post.url }}#anchor">Read more</a>
+        {% endif %}
+    </div>
+</li>
+{% endfor %}
