@@ -120,6 +120,7 @@ header {
     line-height: 1.2;
     min-height: 500px;
     padding: 10vw 2em;
+    position: relative;
     text-align: center;
 }
 
