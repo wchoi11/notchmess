@@ -1,8 +1,8 @@
 @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
 
 a {
-    text-decoration: none;
     color: #e7b983;
+    text-decoration: none;
 }
 
 a:hover {
@@ -10,15 +10,15 @@ a:hover {
 }
 
 .about {
-    width: 50%;
     margin: 0 auto;
+    width: 50%;
 }
 
 .argument {
-    margin-left: auto;
-    margin-right: auto;
     /*width: 50%;*/
     font-size: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .argument li {
@@ -32,80 +32,38 @@ blockquote {
 }
 
 body {
-    margin: 0 auto;
-    font-size: 16px;
-    font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #fffff8;
     color: #555;
+    font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 16px;
+    margin: 0 auto;
 }
 
 .credit {
-    position: absolute;
     bottom: 0;
+    position: absolute;
     right: 0;
 }
 
-.post-body {
-    margin: 0;
-    padding: 0;
-    max-width: 60em;
-    font-size: 16px;
-    font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
-    background-color: #fffff8;
-    color: #555;
-    padding-left: 12.5%;
-    width: 50%;
-}
-
-.post-body h2:before {
-    content: " ";
-    display: block;
-    border-bottom: 1px solid #ececec;
-    margin-bottom: 40px;
-}
-
-.post-body h3:before {
-    content: " ";
-    display: block;
-    margin-bottom: 30px;
-}
-
-.post-body p {
-    font-weight: 400;
-    line-height: 1.7;
-}
-
-/*post: {*/
-/*    !*margin: 0 auto;*!*/
-/*    padding: 0;*/
-/*    max-width: 60em;*/
-/*    font-size: 16px;*/
-/*    font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';*/
-/*    background-color: #fffff8;*/
-/*    color: #555;*/
-/*    padding-left: 12.5%;*/
-/*    width: 50%;*/
-/*}*/
-
 .eq {
-    padding: 0.25rem;
     border: 1px solid black;
+    padding: 0.25rem;
 }
 
 .eq-caption {
-    text-align: center;
     bottom: 0.75em;
-    position: relative;
     font-size: 1.25em;
+    position: relative;
+    text-align: center;
 }
 
 .explanation {
+    background: gainsboro;
+    border-radius: 1em;
+    color: #555;
     font-size: 1.5rem;
     line-height: 1.4em;
-    color: #555;
-    background: gainsboro;
     padding: 0.5em;
-    border-radius: 1em;
 }
 
 footer {
@@ -115,18 +73,18 @@ footer {
 }
 
 h1 {
-    font-size: 2em;
     color: #333;
+    font-size: 2em;
 }
 
 h2 {
-    font-size: 1.5em;
     color: #333;
+    font-size: 1.5em;
 }
 
 h3 {
-    font-size: 1.25em;
     color: #333;
+    font-size: 1.25em;
 }
 
 header {
@@ -157,8 +115,8 @@ header a {
     font-size: 0.6em;
     letter-spacing: 0.2em;
     padding: 1em 2em;
-    text-transform: uppercase;
     text-decoration: none;
+    text-transform: uppercase;
     transition: none 200ms ease-out;
     transition-property: color, background;
 }
@@ -173,16 +131,16 @@ header a:hover {
 }
 
 nav ul {
+    font-weight: bold;
+    list-style: none;
     margin: 0;
     padding: 10px;
-    list-style: none;
-    font-weight: bold;
 }
 
 footer ul {
-    padding: 0px;
-    list-style: none;
     font-weight: bold;
+    list-style: none;
+    padding: 0px;
 }
 
 nav ul li, footer ul li {
@@ -196,9 +154,48 @@ p {
     line-height: 1.7;
 }
 
-.post {
-    /*padding-left: 12.5%;*/
-    /*width: 50%;*/
+.post-body {
+    background-color: #fffff8;
+    color: #555;
+    font-family: 'Open Sans', 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 16px;
+    margin: 0;
+    max-width: 60em;
+    padding: 0;
+    padding-left: 12.5%;
+    width: 50%;
+}
+
+.post-body h2:before {
+    border-bottom: 1px solid #ececec;
+    content: " ";
+    display: block;
+    margin-bottom: 40px;
+}
+
+.post-body h3:before {
+    content: " ";
+    display: block;
+    margin-bottom: 30px;
+}
+
+.post-body ol {
+    color: #555;
+    font-size: 1.1em;
+    font-weight: 400;
+    line-height: 1.7;
+}
+
+.post-body p {
+    font-weight: 400;
+    line-height: 1.7;
+}
+
+.post-body .footnotes:before {
+    border-bottom: 1px solid #ececec;
+    content: " ";
+    display: block;
+    margin-bottom: 40px;
 }
 
 .post-title {
@@ -228,12 +225,12 @@ strong {
 }
 
 table {
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 1.5em;
+    border:1px solid #000;
     border-collapse: collapse;
     border-spacing: 0;
-    border:1px solid #000;
+    font-size: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 th{
@@ -244,9 +241,9 @@ td{
     border:1px solid #000000;
 }
 
-ul.posts { 
-    margin: 20px auto 40px;
+ul.posts {
     font-size: 1em;
+    margin: 20px auto 40px;
     width: 75%;
 }
 
@@ -254,7 +251,3 @@ ul.posts li {
     list-style: none;
     margin: 2em;
 }
-
-
-
-
