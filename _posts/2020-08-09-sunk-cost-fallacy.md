@@ -186,7 +186,7 @@ All Kelly needs is to show that honoring sunk costs is not always irrational.
 This merely requires the claim that performing or preferring redemptive actions
 *can* be rational and not that it always is or is so in some particular case.
 
-You may still object that Kelly doesn't argue for why honoring sunk costs can be
-rational. Kelly writes that "no particular preference can be intrinsically
+You may still object that Kelly doesn't argue for why honoring sunk costs *can*
+be rational. Kelly writes that "no particular preference can be intrinsically
 irrational" and that even if some preferences were irrational "it is unclear why
 preferences for redemption should be included" (74).

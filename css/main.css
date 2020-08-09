@@ -87,7 +87,19 @@ h3 {
     font-size: 1.25em;
 }
 
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
 header {
+    animation-name: fade-in;
+    animation-duration: 3s;
     background-color: #263d36;
     background-image: url("header.jpg");
     background-position: center top;
